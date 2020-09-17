@@ -39,3 +39,5 @@ inspec.lock
 # temporary and reporting locust files 
 **/locust/__pycache__/*
 **/locust/*.csv
+
+*terraform-cloud-azure-bigip-demo*

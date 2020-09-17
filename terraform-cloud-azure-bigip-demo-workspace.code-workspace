@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "terraform-cloud-workspace-provisioning",
+			"path": "..\\terraform-cloud-workspace-provisioning"
+		},
+		{
+			"name": "f5-sentinel-policies",
+			"path": "..\\f5-sentinel-policies"
+		}
+	],
+	"settings": {}
+}
